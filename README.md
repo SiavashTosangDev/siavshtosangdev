@@ -30,7 +30,7 @@ I'm always looking to learn, grow, and collaborate on exciting new projects!
 
 ## 📫 How to reach me:
 - Email: siavashtosang@gmail.com
-- LinkedIn: [Your LinkedIn Link]
+- LinkedIn: https://www.linkedin.com/in/siavashtosang/
 
 ---
 
