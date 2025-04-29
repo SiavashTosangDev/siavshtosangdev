@@ -1,7 +1,7 @@
 # siavshtosangdev
 
 <p align="center">
-  <img src="20250429_1142_Siavash Tosang_ Android Developer_simple_compose_01jt09m1shecpvfxdq9mm5tn8t.png" alt="Siavash Tosang Banner" />
+  <img src="gitbanner.png" alt="Siavash Tosang Banner" />
 </p>
 
 
