@@ -1,4 +1,4 @@
-# siavshtosangdev
+# SiavshTosangDev
 
 <p align="center">
   <img src="gitbanner.png" alt="Siavash Tosang Banner" />
@@ -20,7 +20,6 @@ I'm always looking to learn, grow, and collaborate on exciting new projects!
 - REST API Integration
 - Room Database
 - Git & GitHub
-- UI/UX Collaboration (Figma)
 
 ## 🎯 Goals:
 - Master advanced Android development
